@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+pydantic-settings>=2.0
+python-dotenv
+pymupdf
+openai
+streamlit
+requests
+sqlalchemy
+pandas
+python-multipart
